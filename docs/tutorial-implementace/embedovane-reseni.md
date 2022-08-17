@@ -29,7 +29,7 @@ V obou případech doporučujeme přenést vstupními parametry zboží, které 
 
 Na libovolné místo na vašich stránkách vložte následující integrační snippet:
 
-```
+```html
 <!-- Rentalit Leasing Calculator -->
 <div id="rentalit"></div>
 <script src="https://rentalitpro.cz/js/rentalit.js"></script>
@@ -57,7 +57,7 @@ Pole produktů, které chcete v embedu automaticky předvybrat. Produkty je mož
 
 Ukázka:
 
-```
+```json
 products: [
    { product_id: 156 },
    { product_id: 157 },

@@ -16,7 +16,7 @@ Ukázky standalone řešení.
 
 ## Standalone pro obchodníky
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/dJN3oMz8h4s?playlist=dJN3oMz8h4s&autoplay=1&loop=1&modestbranding=1&playsinline=1&fs=1" title="Standalone pro obchodníky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="3840" height="2160" src="https://www.youtube.com/embed/dJN3oMz8h4s?playlist=dJN3oMz8h4s&autoplay=1&loop=1&modestbranding=1&playsinline=1&fs=1" title="Standalone pro obchodníky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Standalone ukázka nabídky v PDF
 
