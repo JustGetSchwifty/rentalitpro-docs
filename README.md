@@ -1,3 +1,3 @@
 # github-xhkale
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-xhkale)
+[Navštivte dokumentaci Rentalit Pro ⚡️](https://docs.rentalitpro.cz/)
