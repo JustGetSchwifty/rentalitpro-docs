@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Dokumentace Rentalit Pro",
+    "description": "The title in the navbar"
+  },
+  "item.label.Návody": {
+    "message": "Návody",
+    "description": "Navbar item with label Návody"
+  },
+  "item.label.Rentalit Pro": {
+    "message": "Rentalit Pro",
+    "description": "Navbar item with label Rentalit Pro"
+  },
+  "item.label.Rentalit": {
+    "message": "Rentalit",
+    "description": "Navbar item with label Rentalit"
+  }
+}

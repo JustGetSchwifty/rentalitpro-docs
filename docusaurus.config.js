@@ -25,6 +25,11 @@ const config = {
   i18n: {
     defaultLocale: 'cz',
     locales: ['cz'],
+    localeConfigs: {
+      cz: {
+        htmlLang: 'cs-CZ',
+      },
+    },
   },
 
   presets: [

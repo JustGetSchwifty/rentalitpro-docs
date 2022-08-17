@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Základní informace": {
+    "message": "Základní informace",
+    "description": "The label for category Základní informace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Základní informace.link.generated-index.description": {
+    "message": "Informace o tom, k čemu slouží jednotlivá řešení.",
+    "description": "The generated-index page description for category Základní informace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Implementace": {
+    "message": "Implementace",
+    "description": "The label for category Implementace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Implementace.link.generated-index.description": {
+    "message": "Technické informace k implementace pro programátory.",
+    "description": "The generated-index page description for category Implementace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Časté problémy / FAQ": {
+    "message": "Časté problémy / FAQ",
+    "description": "The label for category Časté problémy / FAQ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Časté problémy / FAQ.link.generated-index.description": {
+    "message": "Časté problémy a jejich řešení, často kladené otázky a odpovědi na ně.",
+    "description": "The generated-index page description for category Časté problémy / FAQ in sidebar tutorialSidebar"
+  }
+}
