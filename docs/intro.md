@@ -2,46 +2,19 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Úvodní strana
 
-Let's discover **Docusaurus in less than 5 minutes**.
+V tomto návodu se dozvíte, jaké jsou možnosti implementace Rentalit Pro do vašeho řešení.
 
-## Getting Started
+## Kde začít
 
-Get started by **creating a new site**.
+Začněte tím, že nás [kontaktujete](https://rentalitpro.cz/#kontakt). **Jakmile se s naším obchodním oddělením domlutíte na detailech**, můžete přejít k samotné implementaci řešení.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Jaké jsou možnosti
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Standalone řešení: _vhodné zejménapro obchodníky, kteří nemají vlastní web_
+- Vložení do vašeho webu: _vhodné zejména pro eshopy_
+  - Vložení do těla webu
+  - Vložení do modálního okna
+  - Implementace nákupního tlačítka
+  - Otevření v novém okně

@@ -19,7 +19,10 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Zobrazit návody - 10min <span role="img" aria-label="Clock">⏱️</span>
+            Zobrazit návody - 10min{' '}
+            <span role="img" aria-label="hodiny">
+              ⏱️
+            </span>
           </Link>
         </div>
       </div>

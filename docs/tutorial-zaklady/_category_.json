@@ -1,0 +1,8 @@
+{
+  "label": "Základní informace",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Informace o tom, k čemu slouží jednotlivá řešení."
+  }
+}
