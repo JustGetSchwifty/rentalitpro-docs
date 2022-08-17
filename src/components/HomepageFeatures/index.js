@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use?',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Více možností',
+    Svg: require('@site/static/img/world-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Rentalit Pro nabízí několik metod možné implementace a záleží čistě na vás, jakou si zvolíte.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Rychlé nasazení',
+    Svg: require('@site/static/img/fast-forward-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Rentalit Pro je možné implementovat velmi rychle s minimálními programátorskými pracemi na vaší straně.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Plně automatické',
+    Svg: require('@site/static/img/industrial-robot-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Pokud budete chtít, systém Rentalit Pro může s vaším řešením komunikovat na stoprocentně automatické bází a vy se tak nemusíte o nic starat.
       </>
     ),
   },
