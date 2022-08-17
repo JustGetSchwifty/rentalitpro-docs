@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Ukázka řešení – standalone
+# Ukázky řešení – standalone
 
-Ukázka standalone řešení.
+Ukázky standalone řešení.
 
 ## Standalone pro klienty
 
@@ -16,6 +16,8 @@ Ukázka standalone řešení.
 
 ## Standalone pro obchodníky
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ybsqIWc5wrQ?playlist=ybsqIWc5wrQ&autoplay=1&loop=1&modestbranding=1&playsinline=1&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/dJN3oMz8h4s?playlist=dJN3oMz8h4s&autoplay=1&loop=1&modestbranding=1&playsinline=1&fs=1" title="Standalone pro obchodníky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Standalone ukázka nabídky v PDF
+
+[![Standalone ukázka nabídky](../../static/img/pdf.png)](../../static/img/pdf.png)
