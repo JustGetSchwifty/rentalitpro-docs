@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Popis řešení fungujícího nezávisle na vašem webu.
 
-:::caution
+:::caution Upozornění
 
 Standalone řešení není doporučené pro požití zákazníky. Vždy je lepší [implementace pomocí embedu](embedovane-reseni) se vstupními parametry, které systému předá produktů, které chcete v embedu automaticky předvybrat.
 
@@ -40,7 +40,7 @@ https://rentalitpro.cz/calculator/embed?hash=VÁŠ_UNIKÁTNÍ_HASH&standalone
 
 Tímto odkazem zobrazíte `embed` kalkulačku v samostatném okně, ale přidáte k ní ještě hlavičku Rentalit Pro, pozadí a celý obsah se přizpůsobí standalone zobrazení.
 
-:::caution
+:::caution Upozornění
 
 Toto řešení sice předvybere produkty v kalkulačce, ale také uživateli jednoduše zpřístupní informace o produktových kódech a ID přímo v URL, což nemusí být žádoucí.
 

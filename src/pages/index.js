@@ -13,16 +13,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Zobrazit návody - 10min{' '}
-            <span role="img" aria-label="hodiny">
-              ⏱️
-            </span>
+            Zobrazit návody
           </Link>
         </div>
       </div>
@@ -39,7 +35,23 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
+        <h1 class="vyhody">Výhody Rentalit Pro</h1>
         <HomepageFeatures />
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro"
+          >
+            Zobrazit návody
+          </Link>
+          &nbsp;&nbsp;&nbsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="https://rentalitpro.cz/#kontakt"
+          >
+            Kontaktovat obchodní oddělení
+          </Link>
+        </div>
       </main>
     </Layout>
   );

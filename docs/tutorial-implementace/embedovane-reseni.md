@@ -79,8 +79,8 @@ Defaultní hodnota: `false`
 
 Přepne embed na testovací prostředí (stage) Rentalit Pro. Používá se v případě testování nových funkcí nebo změn, které ještě nejsou dostupné na produkci.
 
-:::caution
-Pozor: Pro správnou funkci je nutné při zapnutí tohoto parametru zároveň změnit URL skriptu ve snippetu z `https://rentalitpro.cz/js/rentalit.js` na `https://stage.rentalitpro.cz/js/rentalit.js`!
+:::caution Pozor
+Pro správnou funkci je nutné při zapnutí tohoto parametru zároveň změnit URL skriptu ve snippetu z `https://rentalitpro.cz/js/rentalit.js` na `https://stage.rentalitpro.cz/js/rentalit.js`!
 :::
 
 Defaultní hodnota: `false`

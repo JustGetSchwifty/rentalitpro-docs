@@ -15,6 +15,7 @@ Vysvětlení celého procestu Rentalit Pro.
 - `Kalkulačka`: rozhraní Rentalit Pro, ve kterém si zákazník volí zboží a délku splácení a ze kterého pak pokračuje na web Rentalit k dokončení registrace
 - `Skóring` / `Risk`: návazný systém, který je nedílnou součástí procesu, který prověří schopnost klienta pravidelně platit měsíční pronájem
 - `Vstupní parametry`: embed i standalone řešení podporuje vložení konkrétních produktů do kalkulačky při načtení kalkulačky – konkrétní zboží je definováno právě vstupními parametry
+- `Hash`: váš unikátní kód, kterým jednoznačně identifikujeme naše partnery
 
 ## Proces z pohledu partnera
 
@@ -24,13 +25,15 @@ Poté nakonfigurujeme prostředí Rentalit Pro na základě vaší smlouvy a př
 
 Následně se rozhodnete, které řešení je pro vás nejlepší a za použití [tohoto návodu](../tutorial-implementace/uvod) nasadíte Rentalit Pro na váš web – ať už půjde o standalone řešení, nákupní tlačítko a nebo embedované řešení.
 
+Dodáte nám odkaz na váš [XML feed](../tutorial-implementace/popis-feedu), který budeme periodicky stahovat a aktualizovat tak vaše ceníky a zboží.
+
 ## Proces z pohledu klienta
 
 Na základě výběru typu implementace klient přijde na váš web a zde si přes nákupní tlačítko / vložený embed / odkaz na kalkulačku zobrazí kalkulačku. V té bude mít předvybrané zboží, které si chce objednat a nebo si ho sám zvolí. Klient si poté zvolí délku splácení a ihned vidí cenu, za kterou si může zboží měsíčně pronajímat.
 
 V další části procesu se klient dostane na web Rentalit, kde si založí účet a vyplní své důležité údaje. Vyplněné údaje předáme skóringovému systému, který rozhodne, zda je klient schopný měsíčně platit pronájem a nebo nikoli.
 
-:::info
+:::info Poznámka
 
 Některé následující kroky jsou závislé na dohodě mezi Rentalit a vámi. Záleží na smluvních podmínkách a konkrétním nastavení objednávkového procesu mezi Rentalit a vámi.
 

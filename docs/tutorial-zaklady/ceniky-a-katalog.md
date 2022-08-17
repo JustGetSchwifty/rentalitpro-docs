@@ -20,7 +20,7 @@ Rentalit Pro podporuje čtení z Heuréka.cz feedu. Pokud již máte tento feed,
 
 :::
 
-:::note
+:::note Poznámka
 
 Pokud nechcete Rentalit Pro poskytnout celý svůj katalog a současně nechcete vytvářet nový katalog, je možné systému poskytovat celý katalog a zboží filtrovat periodicky aktualizovaných allowlistem.
 
