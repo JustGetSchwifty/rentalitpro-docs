@@ -23,7 +23,8 @@ sidebar_position: 1
 
 Nyní pokračujte do sekce dle vaší preference implementace:
 
-- Embedované řešení
-- Standalone řešení
-- Popis feedu a API feedu
-- Popis allowlistu
+- [Embedované řešení](embedovane-reseni)
+- [Standalone řešení](standalone-reseni)
+- [Popis feedu](popis-feedu)
+  - [Popis API feedu](api-feedu)
+  - [Popis allowlistu](allowlist)

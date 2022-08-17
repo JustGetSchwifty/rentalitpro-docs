@@ -14,6 +14,7 @@ Vysvětlení celého procestu Rentalit Pro.
 - `Standalone`: Rentalit Pro v samostatném okně
 - `Kalkulačka`: rozhraní Rentalit Pro, ve kterém si zákazník volí zboží a délku splácení a ze kterého pak pokračuje na web Rentalit k dokončení registrace
 - `Skóring` / `Risk`: návazný systém, který je nedílnou součástí procesu, který prověří schopnost klienta pravidelně platit měsíční pronájem
+- `Vstupní parametry`: embed i standalone řešení podporuje vložení konkrétních produktů do kalkulačky při načtení kalkulačky – konkrétní zboží je definováno právě vstupními parametry
 
 ## Proces z pohledu partnera
 
