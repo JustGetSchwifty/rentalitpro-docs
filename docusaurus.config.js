@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'static/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -46,43 +46,41 @@ const config = {
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'Dokumentace Rentalit Pro',
-        logo: {
-          alt: 'Rentalit Pro',
-          src: 'img/logo.svg',
+  themeConfig: {
+    navbar: {
+      title: 'Dokumentace Rentalit Pro',
+      logo: {
+        alt: 'Rentalit Pro',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Návody',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Návody',
-          },
-          {
-            href: 'https://rentalitpro.cz',
-            label: 'Rentalit Pro',
-            position: 'right',
-          },
-          {
-            href: 'https://rentalit.cz',
-            label: 'Rentalit',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        copyright: `<p style="font-size: 0.85rem; line-height: 1.35rem; margin-bottom: 0.2rem;">© ${new Date().getFullYear()} Rentalit s. r. o.<br>Tel.: <a href="tel:+420604616720">604&nbsp;616&nbsp;720</a>&nbsp;&amp;&nbsp;<a href="tel:+420731395600">731&nbsp;395&nbsp;600</a>, E-mail: <a href="mailto:info@rentalit.cz">info@rentalit.cz</a></p><p style="font-size: 0.75rem; line-height: 1.3;">Sokolovská&nbsp;700/113a, 186&nbsp;00 Praha&nbsp;8&nbsp;–&nbsp;Karlín, IČO: 08806594,<br> zapsaná v&nbsp;obchodním rejstříku vedeném Městským soudem v&nbsp;Praze, oddíl C, vložka 325708</p>`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        {
+          href: 'https://rentalitpro.cz',
+          label: 'Rentalit Pro',
+          position: 'right',
+        },
+        {
+          href: 'https://rentalit.cz',
+          label: 'Rentalit',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      copyright: `<p style="font-size: 0.85rem; line-height: 1.35rem; margin-bottom: 0.2rem;">© ${new Date().getFullYear()} Rentalit s. r. o.<br>Tel.: <a href="tel:+420604616720">604&nbsp;616&nbsp;720</a>&nbsp;&amp;&nbsp;<a href="tel:+420731395600">731&nbsp;395&nbsp;600</a>, E-mail: <a href="mailto:info@rentalit.cz">info@rentalit.cz</a></p><p style="font-size: 0.75rem; line-height: 1.3;">Sokolovská&nbsp;700/113a, 186&nbsp;00 Praha&nbsp;8&nbsp;–&nbsp;Karlín, IČO: 08806594,<br> zapsaná v&nbsp;obchodním rejstříku vedeném Městským soudem v&nbsp;Praze, oddíl C, vložka 325708</p>`,
+    },
+    prism: {
+      theme: darkCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
 };
 
 module.exports = config;
