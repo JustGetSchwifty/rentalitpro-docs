@@ -49,22 +49,22 @@ Tento pohled vám umožňuje:
 
 ### Pohled pro obchodníky s vyplněnou slevou
 
-[![Standalone ukázka nabídky](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
+[![Pohled pro obchodníky s vyplněnou slevou](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
 [Odkaz na obrázek](../../static/img/pohled-pro-obchodniky.png)
 
 ### Odeslaná nabídka na e-mail
 
-[![Standalone ukázka nabídky](../../static/img/prichozi-mail.png)](../../static/img/prichozi-mail.png)
+[![Odeslaná nabídka na e-mail](../../static/img/prichozi-mail.png)](../../static/img/prichozi-mail.png)
 [Odkaz na obrázek](../../static/img/prichozi-mail.png)
 
 ### Nabídka v PDF
 
-[![Standalone ukázka nabídky](../../static/img/pdf.png)](../../static/img/pdf.png)
+[![Nabídka v PDF](../../static/img/pdf.png)](../../static/img/pdf.png)
 [Odkaz na obrázek](../../static/img/pdf.png)
 
 ### Přidávání slevy a kombinování vlastních produktů a produktů z feedu
 
-[![Sleva](../../static/img/sleva.png)](../../static/img/sleva.png)
+[![Přidávání slevy a kombinování vlastních produktů a produktů z feedu](../../static/img/sleva.png)](../../static/img/sleva.png)
 [Odkaz na obrázek](../../static/img/sleva.png)
 
 ### Standalone pro obchodníky
