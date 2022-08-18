@@ -16,6 +16,7 @@ Vysvětlení celého procestu Rentalit Pro.
 - `Skóring` / `Risk`: návazný systém, který je nedílnou součástí procesu, který prověří schopnost klienta pravidelně platit měsíční pronájem
 - `Vstupní parametry`: embed i standalone řešení podporuje vložení konkrétních produktů do kalkulačky při načtení kalkulačky – konkrétní zboží je definováno právě vstupními parametry
 - `Hash`: váš unikátní kód, kterým jednoznačně identifikujeme naše partnery
+- `Stage`: testovací prostředí, opakem `stage` je `produkce`, tj. reálné produkční prostředí
 
 ## Proces z pohledu partnera
 

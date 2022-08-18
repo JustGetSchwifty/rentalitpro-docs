@@ -25,6 +25,6 @@ Standardně nám implementace po podpisu smlouvy trvá jeden až dva pracovní t
 
 :::tip
 
-Pokud chcete implementaci urychlit, důkladně si přečtěte veškeré návody v této dokumentaci. Pokud si s něčím nevíte rady, odpověď pravděpodobně najdete v [častých problémech](../category/časté-problémy).
+Pokud chcete implementaci urychlit, důkladně si přečtěte veškeré návody v této dokumentaci. Pokud si s něčím nevíte rady, odpověď pravděpodobně najdete v [častých problémech](../category/časté-problémy--faq).
 
 :::

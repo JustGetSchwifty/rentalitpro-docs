@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # API XML feedu
@@ -58,12 +58,12 @@ Získání CSV s duplicitními kódy produktů:<br></br>
 Získání textové informace:<br></br>
 `http://rentalitpro.cz/api/v1/status/txt?hash=[váš přidělený hash]`
 
-
 ## Omezení, rate limiting API
+
 API je limitováno a nelze jej používat neomezeně. Při překročení limitu obdržíte od serveru odpověď `429: Too many requests`. Limity jsou v následující tabulce.
 
 | Služba                    | Limit počet:minut | Jak často lze načítat bez chyby |
-|---------------------------|-------------------|---------------------------------|
+| ------------------------- | ----------------- | ------------------------------- |
 | txt                       | 30:1              | Jednou za dvě sekundy.          |
 | json                      | 6:1               | Jednou za deset sekund.         |
 | xml                       | 6:1               | Jednou za deset sekund.         |
