@@ -10,6 +10,10 @@ Pokročilé filtrování příchozího XML feedu.
 
 Pokud se v zasíláném feedu nachází i zboží, které nechcete do systému Rentalit Pro zaslat, je možné feed filtrovat.
 
+:::tip
+Základní a nejjednodušší formou filtrování je filtrování pomocí kategorií. Každé zboží musí být zařazeno v nějaké kategorii a na straně Rentalit Pro je možné zpracovávat jen nějaké kategorie a ostatní ignorovat.
+:::
+
 K pokročilému filtrování slouží tzv. allowlist.
 
 ## Formát allowlistu
@@ -47,7 +51,7 @@ iPhone 13 mini 512GB (PRODUCT)RED;MLKE3CN/A;102029,752,314;123456
 
 :::info Poznámka
 
-Cena a Cena s DPH je v allowlistu uvedena jenom kvůli kontrole, že se jedná o shodné zboží s vaším XML feedem. Ceny zaslané v allowlistu se nikam nepropisují.
+`Cena` a `Cena s DPH` je v allowlistu uvedena jenom kvůli kontrole, že se jedná o shodné zboží s vaším XML feedem. Ceny zaslané v allowlistu se nikam nepropisují.
 
 :::
 
@@ -57,7 +61,7 @@ Allowlist je možné nám zaslat na e-mail a my jej aktualizujeme.
 
 :::info Poznámka
 
-V budoucnosti bude možné allowlist nahrávat automaticky pomocí FTP napřímo.
+V budoucnosti bude možné allowlist nahrávat automaticky pomocí `FTP` napřímo.
 
 :::
 

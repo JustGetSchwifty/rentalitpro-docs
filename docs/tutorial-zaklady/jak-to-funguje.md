@@ -13,9 +13,11 @@ Vysvětlení celého procestu Rentalit Pro.
 - `Embed`: Rentalit Pro vložený do vašeho webu
 - `Standalone`: Rentalit Pro v samostatném okně
 - `Kalkulačka`: rozhraní Rentalit Pro, ve kterém si zákazník volí zboží a délku splácení a ze kterého pak pokračuje na web Rentalit k dokončení registrace
+- `Whitelabel`: přizpůsobení vzhledu vašemu brandu, nastavení fontů, barev a podobně tak, aby řešení zapadalo do vašeho designu
 - `Skóring` / `Risk`: návazný systém, který je nedílnou součástí procesu, který prověří schopnost klienta pravidelně platit měsíční pronájem
 - `Vstupní parametry`: embed i standalone řešení podporuje vložení konkrétních produktů do kalkulačky při načtení kalkulačky – konkrétní zboží je definováno právě vstupními parametry
 - `Hash`: váš unikátní kód, kterým jednoznačně identifikujeme naše partnery
+- `Feed`: soubor ve formátu XML, který obsahuje vaše produkty, které chcete zobrazit v prostředí Rentalit Pro
 - `Stage`: testovací prostředí, opakem `stage` je `produkce`, tj. reálné produkční prostředí
 
 ## Proces z pohledu partnera
@@ -30,7 +32,7 @@ Dodáte nám odkaz na váš [XML feed](../tutorial-implementace/popis-feedu), kt
 
 ## Proces z pohledu klienta
 
-Na základě výběru typu implementace klient přijde na váš web a zde si přes nákupní tlačítko / vložený embed / odkaz na kalkulačku zobrazí kalkulačku. V té bude mít předvybrané zboží, které si chce objednat a nebo si ho sám zvolí. Klient si poté zvolí délku splácení a ihned vidí cenu, za kterou si může zboží měsíčně pronajímat.
+Na základě výběru typu implementace, klient přijde na váš web a zde si přes nákupní tlačítko / vložený embed / odkaz na kalkulačku, zobrazí kalkulačku. V té bude mít předvybrané zboží, které si chce objednat a nebo si ho sám zvolí. Klient si poté zvolí délku splácení a ihned vidí cenu, za kterou si může zboží měsíčně pronajímat.
 
 V další části procesu se klient dostane na web Rentalit, kde si založí účet a vyplní své důležité údaje. Vyplněné údaje předáme skóringovému systému, který rozhodne, zda je klient schopný měsíčně platit pronájem a nebo nikoli.
 
@@ -44,8 +46,8 @@ V případě kladné odpovědi risku je klient poté zpracován naším klientsk
 
 Smlouvy jsou společně s prázdným předávacím protokolem odeslány na vaši pobočku, kde si klient bude vyzvedávat zboží a podepisovat dokumenty.
 
-Dohází také k ověření identity klienta a to buď na vaší pobočce a nebo pomocí našeho kurýra.
+Dochází také k ověření identity klienta a to buď na vaší pobočce, nebo pomocí našeho kurýra.
 
-Poté zákazník obdrží zboží buď na vaší podobčce a nebo je mu zasláno kurýrní společností.
+Poté zákazník obdrží zboží buď na vaší podobčce, nebo je mu zasláno kurýrní společností.
 
-Následně klient obdrží první fakturu a splátkový kalendář a začíná využívat zboží na operativní leasing.
+Následně klient obdrží první fakturu a splátkový kalendář a začíná ihned využívat zboží na operativní leasing.

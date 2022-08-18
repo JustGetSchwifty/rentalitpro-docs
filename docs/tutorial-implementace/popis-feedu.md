@@ -8,11 +8,11 @@ Technická specifikace XML feedu produktů a ceníku.
 
 ## Feed a jeho účel
 
-Feedem se rozumí soubor ve formátu XML, kterým partner odesílá svůj seznam produktů pro účely Rentalit Pro. Soubor XML bude buď dostupný na veřejné adrese, odkud je možné jej automaticky periodicky stahovat.
+Feedem se rozumí soubor ve formátu XML, kterým partner odesílá svůj seznam produktů pro účely Rentalit Pro. Soubor XML musí být dostupný na veřejné adrese, odkud je možné jej automaticky periodicky stahovat.
 
 :::tip
 
-Pokud nechcete do systému Rentalit Pro vkládat všechny produkty ve feedu a nechcete kvůli Rentalit Pro vytvářet další feed, je možné využít filtrování pomocí tzv. [allowlistu](#filtrování-feedu).
+Pokud nechcete do systému Rentalit Pro vkládat všechny produkty ve feedu a nechcete kvůli Rentalit Pro vytvářet další feed, je možné využít filtrování pomocí tzv. [allowlistu](#filtrování-feedu--allowlist).
 
 :::
 

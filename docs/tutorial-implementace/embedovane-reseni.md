@@ -23,7 +23,7 @@ Vstupními parametry embedu je možné v kalkulačce předvyplnit zboží, kter�
 
 V obou případech doporučujeme přenést vstupními parametry zboží, které má být v kalkulačce vložené.
 
-- Embed je možné vložit na samostatnou stránku bez předání vstupních parametrů.
+- Embed je možné vložit na samostatnou stránku i bez předání vstupních parametrů, nicméně je to pro klienta nepraktické.
 
 ## Jak embed nainstalovat?
 
@@ -37,11 +37,11 @@ Na libovolné místo na vašich stránkách vložte následující integrační 
 <!-- END Rentalit Leasing Calculator -->
 ```
 
-Vás unikátní hash, kterým se v Rentalit Pro identifikujete a embed díky tomu bude zobrazovat správný katalog a whitelabel styly je nezbytnou součástí. Pro testovací účely můžete použít hash `xZnzAeXHWa6cBvZXtjnJB1EthBPzFrxA3dibZNlcbNENFbWnzPptpI1DC9QHibQa`.
+`VÁŠ_UNIKÁTNÍ_HASH` je [unikátní hash](../tutorial-zaklady/jak-to-funguje#pojmy), kterým se v Rentalit Pro identifikujete. Embed díky tomu bude zobrazovat správný katalog a whitelabel styly. Hash nezbytnou součástí.
+
+Pro testovací účely můžete použít hash `xZnzAeXHWa6cBvZXtjnJB1EthBPzFrxA3dibZNlcbNENFbWnzPptpI1DC9QHibQa`.
 
 ## Konfigurace vstupních parametrů
-
-Embed má následující možnosti konfigurace:
 
 ### Hash `[string]` _(povinné)_
 
@@ -87,7 +87,7 @@ Defaultní hodnota: `false`
 
 ### Standalone `[boolean]`
 
-Slouží k aktivaci standalone režimu, který přidá kolem embedu pozadí a Vaše logo tak, aby šel embed použit na samostatné stránce bez nutnosti dalšího stylování.
+Slouží k aktivaci standalone režimu, který přidá kolem embedu pozadí a vaše logo tak, aby šel embed použít na samostatné stránce bez nutnosti dalšího stylování.
 
 Defaultní hodnota: `false`
 

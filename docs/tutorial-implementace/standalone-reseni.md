@@ -19,8 +19,8 @@ Jedná se o **okrajové řešení**, které standardně nepřijímá žádné p�
 ## Jaké jsou možnosti implementace
 
 - Zobrazení samostatné stránky s Rentalit Pro po kliknutí na tlačítko.
-- Odeslání odkazu zákazníkovi s předvyplněným zbožím.
 - Vložení standalone verze embedu na vlastní web (_speciální řešení_).
+- Odeslání odkazu zákazníkovi s předvyplněným zbožím.
 
 ## Jak zobrazit standalone kalkulačku?
 
@@ -30,8 +30,10 @@ Jediné, co k tomuto řešení potřebujete, je odkaz. Ten vypadá následovně:
 https://rentalitpro.cz/calculator/embed?hash=VÁŠ_UNIKÁTNÍ_HASH
 ```
 
-Tímto odkazem zobrazíte `embed` kalkulačku v samostatném okně. Toto řešení se **důrazně nedoporučuje**.
+Tímto odkazem zobrazíte `embed` kalkulačku v samostatném okně.
 
+Toto řešení se **důrazně nedoporučuje**.
+<br></br>
 Nepatrně lepším řešením je tento odkaz:
 
 ```
@@ -39,14 +41,6 @@ https://rentalitpro.cz/calculator/embed?hash=VÁŠ_UNIKÁTNÍ_HASH&standalone
 ```
 
 Tímto odkazem zobrazíte `embed` kalkulačku v samostatném okně, ale přidáte k ní ještě hlavičku Rentalit Pro, pozadí a celý obsah se přizpůsobí standalone zobrazení.
-
-:::caution Upozornění
-
-Toto řešení sice předvybere produkty v kalkulačce, ale také uživateli jednoduše zpřístupní informace o produktových kódech a ID přímo v URL, což nemusí být žádoucí.
-
-V tomto případě doporučujeme použít spíše [speciální řešení](#speciální-řešení).
-
-:::
 
 ## Konfigurace vstupních parametrů
 
@@ -68,9 +62,17 @@ Ukázka:
 https://rentalitpro.cz/calculator/embed?hash=VÁŠ_UNIKÁTNÍ_HASH&standalone&product_id[]=156&product_id[]=157&product_id[]=55&product_id[]=252&product_code[]=D-N-3590-N3-513
 ```
 
+:::caution Upozornění
+
+Toto řešení sice předvybere produkty v kalkulačce, ale také uživateli jednoduše zpřístupní informace o produktových kódech a ID přímo v URL, což nemusí být žádoucí.
+
+V tomto případě doporučujeme použít spíše [speciální řešení](#speciální-řešení).
+
+:::
+
 ### standalone `[boolean]`
 
-Slouží k aktivaci standalone režimu, který přidá kolem embedu pozadí a Vaše logo tak, aby šel embed použit na samostatné stránce bez nutnosti dalšího stylování.
+Slouží k aktivaci standalone režimu, který přidá kolem embedu pozadí a vaše logo tak, aby šel embed použit na samostatné stránce bez nutnosti dalšího stylování.
 
 ## Speciální řešení
 

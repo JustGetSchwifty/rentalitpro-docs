@@ -22,11 +22,13 @@ Jedná se o pohled na kalkulačku, který je **určený výhradně obchodníkům
 
 ## Jak zobrazit standalone pro obchodníky
 
-Jediné, co k tomuto řešení potřebujete, je odkaz. Ten vypadá následovně:
+Jediné, co k tomuto řešení potřebujete, je odkaz, který jsme vám zaslali.
 
-```
-https://rentalitpro.cz/calculator/?hash=VÁŠ_UNIKÁTNÍ_HASH
-```
+Z bezpečnostních důvodů odkaz neuvádíme v této veřejné dokumentaci.
+
+:::tip Nemáte svůj odkaz?
+Pokud odkaz nemáte, [kontaktujte nás](../kontakt).
+:::
 
 ## V čem se liší standalone pro obchodníky od ostatních pohledů
 
@@ -40,28 +42,33 @@ Tento pohled vám umožňuje:
 - nastavovat procentuální slevu z měsíční splátky na jednotlivé položky [*****]
 
 :::note Poznámka
-**\*** Jaké funkce máte ve svém pohledu pro obchodníky závisí na vaší smlouvě a domluvě s naším obchodním oddělením.
+**\*** Jaké funkce máte ve svém pohledu pro obchodníky, závisí na vaší smlouvě a domluvě s naším obchodním oddělením.
 :::
 
 ## Ukázky funkcí standalone pro obchodníky
 
 ### Pohled pro obchodníky s vyplněnou slevou
+
 [![Standalone ukázka nabídky](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
 [Odkaz na obrázek](../../static/img/pohled-pro-obchodniky.png)
 
 ### Odeslaná nabídka na e-mail
+
 [![Standalone ukázka nabídky](../../static/img/prichozi-mail.png)](../../static/img/prichozi-mail.png)
 [Odkaz na obrázek](../../static/img/prichozi-mail.png)
 
 ### Nabídka v PDF
+
 [![Standalone ukázka nabídky](../../static/img/pdf.png)](../../static/img/pdf.png)
 [Odkaz na obrázek](../../static/img/pdf.png)
 
+### Přidávání slevy a kombinování vlastních produktů a produktů z feedu
+
+[![Sleva](../../static/img/sleva.png)](../../static/img/sleva.png)
+[Odkaz na obrázek](../../static/img/sleva.png)
+
 ### Standalone pro obchodníky
+
 <div class="video-container"><iframe width="3840" height="2160" src="https://www.youtube.com/embed/dJN3oMz8h4s?playlist=dJN3oMz8h4s&autoplay=1&loop=1&modestbranding=1&playsinline=1&controls=1" title="Standalone pro obchodníky" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allowFullScreen="allowFullScreen" allowfullscreen></iframe></div>
 
 [Odkaz na video](https://www.youtube.com/watch?v=dJN3oMz8h4s)
-
-## DEMO
-
-- [Obchodnický pohled](https://stage.rentalitpro.cz/calculator/?hash=xZnzAeXHWa6cBvZXtjnJB1EthBPzFrxA3dibZNlcbNENFbWnzPptpI1DC9QHibQa)

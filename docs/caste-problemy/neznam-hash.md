@@ -13,7 +13,7 @@ Chybějící unikátní hash. Nevím, co je to hash.
 
 ## Řešení problému
 
-- Pokud hash nemáte, tak [nás kontaktujte](https://rentalitpro.cz/#kontakt).
+- Pokud hash nemáte, tak [nás kontaktujte](../kontakt).
 - Pokud nevíte, co je to hash, koukněte se do našeho [seznamu pojmů](../tutorial-zaklady/jak-to-funguje#pojmy).
 - Pro testování kalkulačky ve [stage](../tutorial-implementace/embedovane-reseni#stage-boolean) prostředí můžete použít testovací hash `xZnzAeXHWa6cBvZXtjnJB1EthBPzFrxA3dibZNlcbNENFbWnzPptpI1DC9QHibQa`, pokud nemáte vlastní.
 

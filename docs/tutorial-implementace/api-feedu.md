@@ -16,13 +16,13 @@ API slouží zejména jako reportovací médium pro získání informací o prod
 
 :::danger Důležité upozornění
 
-API není určeno k častému periodickému zpracovávání. Pro přístup k API jsou implementovány časové limity. V případě automatického zpracovávání výstupů z API je doporučeno činit tak v čase pravidelné aktualizace + pár minut.
+API není určeno k častému periodickému zpracovávání. Pro přístup k API jsou vynuceny časové limity. V případě automatického zpracovávání výstupů z API je doporučeno činit tak v čase pravidelné aktualizace + pár minut.
 
 :::
 
 ### Duplicity
 
-Všechny produkty musí mít zcela unikátní ID a produktový kód. Pokud více produktů má stejné produktový kód a / nebo ID, jsou nespárovány a reportovány tímto API.
+Všechny produkty musí mít zcela unikátní ID a produktový kód. Pokud více produktů má stejný produktový kód a / nebo ID, jsou nespárovány a reportovány tímto API.
 
 ### Nespárované kategorie
 
@@ -34,18 +34,18 @@ API je přístupné na adrese `https://rentalitpro.cz/api/v1/status/`. API je do
 
 ### Autentizace
 
-API není veřejné a je nutné se přihlásit. Přihlášení probíhá pomocí parametru GET hash, jehož obsahem je váš partnerský hash, který vám byl přidělen. Bez specifikovaného hash se API nenačte a nenabídne žádné informace.
+API není veřejné a je nutné se přihlásit. Přihlášení probíhá pomocí `GET` parametru `hash`, jehož obsahem je váš partnerský hash, který vám byl přidělen. Bez specifikovaného `hash` se API nenačte a nenabídne žádné informace.
 
 ### Služby
 
 - `json` – status ve formátu **JSON**. Obsahuje informaci o času posledního importu, stavu zpracování, seznamu duplicit, nespárovaných kategoriích a produktech v nespárovaných kategoriích.
 - `xml` – status ve formátu **XML**. Obsahuje informaci o času posledního importu, stavu zpracování, seznamu duplicit, nespárovaných kategoriích a produktech v nespárovaných kategoriích.
-- `txt` – status ve formátu **TXT**. Obsahuje informaci o času posledního importu, stavu zpracování, seznamu duplicit, nespárovaných kategoriích a produktech v nespárovaných kategoriích..
-- `csv/code` – seznam duplicitních kódů produktů ve formátu **CSV**
-- `csv/id` – seznam duplicitních kódů produktů ve formátu **CSV**
-- `csv/in_xml_not_whitelist` – seznam produktů, které se vyskytují v zaslaném XML souboru, ale nejsou uvedené ve whitelistu ve formátu **CSV**
-- `csv/in_whitelist_not_xml` – opak předchozího; seznam produktů, které se vyskytují ve whitelistu, ale nejsou zasílány v XML importu ve formátu **CSV**
-- `csv/whitelist_duplicities` – seznam duplicit ve whitelistu vč. počtu výskytů jednotlivých duplicit ve formátu **CSV**
+- `txt` – status ve formátu **TXT**. Obsahuje informaci o času posledního importu, stavu zpracování, seznamu duplicit, nespárovaných kategoriích a produktech v nespárovaných kategoriích.
+- `csv/code` – seznam duplicitních kódů produktů ve formátu **CSV**.
+- `csv/id` – seznam duplicitních kódů produktů ve formátu **CSV**.
+- `csv/in_xml_not_whitelist` – seznam produktů, které se vyskytují v zaslaném XML souboru, ale nejsou uvedené ve whitelistu ve formátu **CSV**.
+- `csv/in_whitelist_not_xml` – opak předchozího; seznam produktů, které se vyskytují ve whitelistu, ale nejsou zasílány v XML importu ve formátu **CSV**.
+- `csv/whitelist_duplicities` – seznam duplicit ve whitelistu vč. počtu výskytů jednotlivých duplicit ve formátu **CSV**.
 
 ### Příklady
 
