@@ -30,7 +30,8 @@ https://rentalitpro.cz/calculator/?hash=VÁŠ_UNIKÁTNÍ_HASH
 
 ## V čem se liší standalone pro obchodníky od ostatních pohledů
 
-Tento pohled vám umožňuje: 
+Tento pohled vám umožňuje:
+
 - přidávat standardní zboží z vašeho feedu
 - přidat obchodnickou poznámku k objednávce
 - generovat PDF s nabídkou
@@ -38,9 +39,11 @@ Tento pohled vám umožňuje:
 - vytvářet vlastní zboží, které se ve vašem feedu nenachází [*****]
 - nastavovat procentuální slevu z měsíční splátky na jednotlivé položky [*****]
 
+[![Standalone ukázka nabídky](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
+[Odkaz na obrázek](../../static/img/pohled-pro-obchodniky.png)
 
 :::note Poznámka
-***** Jaké funkce máte ve svém pohledu pro obchodníky závisí na vaší smlouvě a domluvě s naším obchodním oddělením.
+**\*** Jaké funkce máte ve svém pohledu pro obchodníky závisí na vaší smlouvě a domluvě s naším obchodním oddělením.
 :::
 
 ## DEMO
