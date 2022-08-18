@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/world-svgrepo-com.svg').default,
     description: (
       <>
-        Rentalit Pro nabízí několik metod možné implementace a záleží čistě na vás, jakou si zvolíte.
+        Rentalit Pro nabízí několik metod možné implementace a záleží čistě na
+        vás, jakou si zvolíte.
       </>
     ),
   },
@@ -17,7 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/fast-forward-svgrepo-com.svg').default,
     description: (
       <>
-        Rentalit Pro je možné implementovat velmi rychle s minimálními programátorskými pracemi na vaší straně.
+        Rentalit Pro je možné implementovat velmi rychle s minimálními
+        programátorskými pracemi na vaší straně.
       </>
     ),
   },
@@ -26,7 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/industrial-robot-svgrepo-com.svg').default,
     description: (
       <>
-        Pokud budete chtít, systém Rentalit Pro může s vaším řešením komunikovat na stoprocentně automatické bází a vy se tak nemusíte o nic starat.
+        Pokud budete chtít, systém Rentalit Pro může s vaším řešením komunikovat
+        na stoprocentně automatické bázi a vy se tak nemusíte o nic starat.
       </>
     ),
   },

@@ -12,9 +12,10 @@ Začněte tím, že nás [kontaktujete](https://rentalitpro.cz/#kontakt). **Jakm
 
 ## Jaké jsou možnosti
 
-- Standalone řešení: _vhodné zejménapro obchodníky, kteří nemají vlastní web_
+- Standalone řešení: _vhodné zejména pro obchodníky, kteří nemají vlastní web_
 - Vložení do vašeho webu: _vhodné zejména pro eshopy_
   - Vložení do těla webu
   - Vložení do modálního okna
   - Implementace nákupního tlačítka
   - Otevření v novém okně
+- Standalone pro obchodníky: _nabídky pro zákazníky, vkládání vlastních slev a zboží_
