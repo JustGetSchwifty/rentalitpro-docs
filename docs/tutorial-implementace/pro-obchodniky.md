@@ -39,12 +39,28 @@ Tento pohled vám umožňuje:
 - vytvářet vlastní zboží, které se ve vašem feedu nenachází [*****]
 - nastavovat procentuální slevu z měsíční splátky na jednotlivé položky [*****]
 
-[![Standalone ukázka nabídky](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
-[Odkaz na obrázek](../../static/img/pohled-pro-obchodniky.png)
-
 :::note Poznámka
 **\*** Jaké funkce máte ve svém pohledu pro obchodníky závisí na vaší smlouvě a domluvě s naším obchodním oddělením.
 :::
+
+## Ukázky funkcí standalone pro obchodníky
+
+### Pohled pro obchodníky s vyplněnou slevou
+[![Standalone ukázka nabídky](../../static/img/pohled-pro-obchodniky.png)](../../static/img/pohled-pro-obchodniky.png)
+[Odkaz na obrázek](../../static/img/pohled-pro-obchodniky.png)
+
+### Odeslaná nabídka na e-mail
+[![Standalone ukázka nabídky](../../static/img/prichozi-mail.png)](../../static/img/prichozi-mail.png)
+[Odkaz na obrázek](../../static/img/prichozi-mail.png)
+
+### Nabídka v PDF
+[![Standalone ukázka nabídky](../../static/img/pdf.png)](../../static/img/pdf.png)
+[Odkaz na obrázek](../../static/img/pdf.png)
+
+### Standalone pro obchodníky
+<div class="video-container"><iframe width="3840" height="2160" src="https://www.youtube.com/embed/dJN3oMz8h4s?playlist=dJN3oMz8h4s&autoplay=1&loop=1&modestbranding=1&playsinline=1&controls=1" title="Standalone pro obchodníky" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" allowFullScreen="allowFullScreen" allowfullscreen></iframe></div>
+
+[Odkaz na video](https://www.youtube.com/watch?v=dJN3oMz8h4s)
 
 ## DEMO
 
