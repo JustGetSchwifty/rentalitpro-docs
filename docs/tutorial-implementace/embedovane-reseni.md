@@ -97,6 +97,13 @@ Více informací o standalone režimu se dozvíte v [další části návodu](st
 
 :::
 
+## Ukázka embedovaného řešení
+
+[![Embed v modálním okně](../../static/img/embed-v-modalnim-okne.png)](../../static/img/embed-v-modalnim-okne.png)
+[Odkaz na obrázek](../../static/img/embed-v-modalnim-okne.png)
+
+Pro další ukázky se můžete podívat do kategorie [ukázek řešení](../tutorial-zaklady/ukazky-reseni-embed).
+
 ## DEMO
 
 Pro vyzkoušení, jak má integrace vypadat, jsme vytvořili následující dema:

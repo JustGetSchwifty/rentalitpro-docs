@@ -84,6 +84,10 @@ Toto řešení podporuje vstupní parametry a je tak možné předvybrat produkt
 
 :::
 
+## Ukázka embedovaného řešení
+
+Pro ukázky se můžete podívat do kategorie [ukázek řešení](../tutorial-zaklady/ukazky-reseni-standalone).
+
 ## DEMO
 
 Pro vyzkoušení, jak má integrace vypadat, jsme vytvořili následující dema:
