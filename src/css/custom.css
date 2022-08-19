@@ -58,8 +58,19 @@ p > a,
 }
 
 p > a[target='_blank']:after {
-  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  content: '';
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIHN0eWxlPSJmaWxsOiNmNTcxMjMiIGQ9Ik0xNCA0SDF2MThoMjBWMTFoMXYxMkgwVjNoMTR2MXptMTAgNWgtMVYyLjcwN0wxMS4zNTQgMTQuMzU0bC0uNzA4LS43MDhMMjIuMjkzIDJIMTZWMWg4djh6Ii8+PC9zdmc+);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 1em;
+  height: 1em;
   margin: 0 3px 0 5px;
+  opacity: 0.8;
+  display: inline-block;
+}
+
+p > a[target='_blank']:hover:after {
+  opacity: 1;
 }
 
 p > a:hover,
