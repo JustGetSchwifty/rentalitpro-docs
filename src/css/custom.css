@@ -51,7 +51,17 @@ html[data-theme='dark'] .navbar__logo {
   margin-top: 3px;
 }
 
+html[data-theme='dark'] header.hero {
+  background-color: #001a4d;
+  color: #e3e3e3;
+}
+
+.navbar .navbar__item:hover {
+  color: #f57123;
+}
+
 p > a,
+li > a,
 .hash-link {
   color: #f57123;
   text-decoration: none;
@@ -75,6 +85,8 @@ p > a[target='_blank']:hover:after {
 
 p > a:hover,
 p > a:active,
+li > a:hover,
+li > a:active,
 .hash-link:active,
 .hash-link:hover {
   color: #f57123;
