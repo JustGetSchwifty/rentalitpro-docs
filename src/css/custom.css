@@ -6,13 +6,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #003296;
+  --ifm-color-primary-dark: #002570;
+  --ifm-color-primary-darker: #001f5c;
+  --ifm-color-primary-darkest: #001a4d;
+  --ifm-color-primary-light: #0878fc;
+  --ifm-color-primary-lighter: #3a95fd;
+  --ifm-color-primary-lightest: #4ea0fd;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -27,13 +27,13 @@ html .navbar__logo img {
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #08a3fc;
+  --ifm-color-primary-dark: #0872fc;
+  --ifm-color-primary-darker: #085dfc;
+  --ifm-color-primary-darkest: #0835fc;
+  --ifm-color-primary-light: #089afc;
+  --ifm-color-primary-lighter: #08a3fc;
+  --ifm-color-primary-lightest: #08affc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -49,6 +49,33 @@ html[data-theme='dark'] .navbar__logo {
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 3px;
+}
+
+p > a,
+.hash-link {
+  color: #f57123;
+  text-decoration: none;
+}
+
+p > a[target='_blank']:after {
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0 3px 0 5px;
+}
+
+p > a:hover,
+p > a:active,
+.hash-link:active,
+.hash-link:hover {
+  color: #f57123;
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 3rem;
+}
+
+footer a {
+  color: #08affc;
 }
 
 .navbar__logo {
