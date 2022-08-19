@@ -30,7 +30,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Dokumentace Rentalit Pro`}
+      title={`Návody a rady`}
       description="Informace, rady a tipy pro implementaci Rentalit Pro do vašeho řešení."
     >
       <HomepageHeader />
