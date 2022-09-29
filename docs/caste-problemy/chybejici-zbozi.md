@@ -15,7 +15,7 @@ V mé kalkulačce chybí nějaké zboží.
 - Chvíli počkejte, právě může docházet k aktualizaci ceníků a dostupností zboží.
 - Zkontrolujte, že chybějící zboží není vyloučeno kvůli absenci v [allowlistu](../tutorial-implementace/allowlist) (pokud [allowlist](../tutorial-implementace/allowlist) používáte).
 - Pokud se problém během čekání nevyřešil, zkontrolujte chyby ve vašem [API pro feed](../tutorial-implementace/api-feedu).
-- Pokud problém přetrvává a nedokázete ho vyřešit pomocí chyb uvedených v [API pro feed](../tutorial-implementace/api-feedu) a nebo je [API pro feed](../tutorial-implementace/api-feedu) prázdné, [kontaktujte nás](../kontakt).
+- Pokud problém přetrvává a nedokázete ho vyřešit pomocí chyb uvedených v [API pro feed](../tutorial-implementace/api-feedu) a nebo je [API pro feed](../tutorial-implementace/api-feedu) prázdné, [kontaktujte nás](/docs/kontakt).
 
 ## Užitečné odkazy
 

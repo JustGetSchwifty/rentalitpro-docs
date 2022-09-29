@@ -22,7 +22,7 @@ Vysvětlení celého procestu Rentalit Pro.
 
 ## Proces z pohledu partnera
 
-Nejprve se domluvíte s naším [obchodním oddělením](../kontakt). S našimi obchodními zástupci si domluvíte smluvní podmínky, druhy pronajímaného zboží, ceník a podobně.
+Nejprve se domluvíte s naším [obchodním oddělením](/docs/kontakt). S našimi obchodními zástupci si domluvíte smluvní podmínky, druhy pronajímaného zboží, ceník a podobně.
 
 Poté nakonfigurujeme prostředí Rentalit Pro na základě vaší smlouvy a předáme vám váš `unikátní hash`. Ten bude sloužit k jedinečné identifikaci a budete ho potřebovat při implementaci všech typů řešení.
 

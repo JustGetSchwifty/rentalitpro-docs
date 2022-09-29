@@ -8,7 +8,7 @@ Jak získat whitelabel pro moji kalkulačku?
 
 ## Odpověď
 
-- [Kontaktujte nás](../kontakt) a my s vámi domluvíme detaily.
+- [Kontaktujte nás](/docs/kontakt) a my s vámi domluvíme detaily.
 - Budeme od vás chtít vědět tyto informace:
   - jaké fonty máme použít,
   - jakou barvu máme použít na tlačítka,

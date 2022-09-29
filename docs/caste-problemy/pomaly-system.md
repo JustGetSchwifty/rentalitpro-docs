@@ -19,6 +19,6 @@ Rentalit Pro se dlouho načítá.
 
 :::tip Poznámka
 
-Kdyby tento stav přetrvával a nebo k němu docházelo příliš často, [kontaktujte nás](../kontakt).
+Kdyby tento stav přetrvával a nebo k němu docházelo příliš často, [kontaktujte nás](/docs/kontakt).
 
 :::

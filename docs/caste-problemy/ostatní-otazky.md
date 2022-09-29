@@ -8,4 +8,4 @@ Nenašel jsem odpověď na svou otázku.
 
 ## Řešení problému
 
-- [Kontaktujte nás](../kontakt).
+- [Kontaktujte nás](/docs/kontakt).

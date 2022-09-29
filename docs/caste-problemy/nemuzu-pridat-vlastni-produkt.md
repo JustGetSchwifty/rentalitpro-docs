@@ -15,4 +15,4 @@ Nemohu přidat vlastní produkt v kalkulačce.
 
 ## Řešení problému
 
-- K přidání vlastního produktu nemáte přidělené oprávnění. Pokud si myslíte, že se jedná o chybu, [kontaktujte nás](../kontakt).
+- K přidání vlastního produktu nemáte přidělené oprávnění. Pokud si myslíte, že se jedná o chybu, [kontaktujte nás](/docs/kontakt).

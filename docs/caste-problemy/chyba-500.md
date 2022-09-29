@@ -13,4 +13,4 @@ Systém hlásí chybu 500.
 ## Řešení problému
 
 - Chvíli počkejte.
-- Pokud problém přetrvá, [kontaktujte nás](../kontakt).
+- Pokud problém přetrvá, [kontaktujte nás](/docs/kontakt).

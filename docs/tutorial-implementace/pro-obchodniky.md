@@ -27,7 +27,7 @@ Jediné, co k tomuto řešení potřebujete, je odkaz, který jsme vám zaslali.
 Z bezpečnostních důvodů odkaz neuvádíme v této veřejné dokumentaci.
 
 :::tip Nemáte svůj odkaz?
-Pokud odkaz nemáte, [kontaktujte nás](../kontakt).
+Pokud odkaz nemáte, [kontaktujte nás](/docs/kontakt).
 :::
 
 ## V čem se liší standalone pro obchodníky od ostatních pohledů

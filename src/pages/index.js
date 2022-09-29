@@ -47,7 +47,7 @@ export default function Home() {
           &nbsp;&nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="https://rentalitpro.cz/#kontakt"
+            to="/docs/kontakt"
           >
             Kontaktovat obchodní oddělení
           </Link>

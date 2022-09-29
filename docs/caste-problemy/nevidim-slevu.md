@@ -15,4 +15,4 @@ V pohledu pro obchodníky nemám možnost vložit slevu.
 
 ## Řešení problému
 
-- K přidání slevy nemáte přidělené oprávnění. Pokud si myslíte, že se jedná o chybu, [kontaktujte nás](../kontakt).
+- K přidání slevy nemáte přidělené oprávnění. Pokud si myslíte, že se jedná o chybu, [kontaktujte nás](/docs/kontakt).
