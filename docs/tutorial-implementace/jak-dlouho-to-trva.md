@@ -8,7 +8,7 @@ sidebar_position: 8
 
 ## Časové odhady
 
-Nejdříve se domluvte s naším [obchodním oddělením](https://rentalitpro.cz/#kontakt). Na vaše požadavky reagujeme denně během naší pracovní doby.
+Nejdříve se domluvte s naším [obchodním oddělením](../kontakt). Na vaše požadavky reagujeme denně během naší pracovní doby.
 
 ### Jednotlivé práce
 

@@ -8,7 +8,7 @@ V tomto návodu se dozvíte, jaké jsou možnosti implementace Rentalit Pro do v
 
 ## Kde začít
 
-Začněte tím, že nás [kontaktujete](https://rentalitpro.cz/#kontakt). **Jakmile se s naším obchodním oddělením domlutíte na detailech**, můžete přejít k samotné implementaci řešení.
+Začněte tím, že nás [kontaktujete](kontakt). **Jakmile se s naším obchodním oddělením domlutíte na detailech**, můžete přejít k samotné implementaci řešení.
 
 ## Jaké jsou možnosti
 

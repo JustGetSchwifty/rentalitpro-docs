@@ -23,7 +23,7 @@ Nezapomeňte balíčky umístit do správné kategorie.
   - Nezapomeňte balíčky umístit do správné kategorie.
   - Balíčky by neměly být ve stejné kategorii jako je hlavní zboží, kolem kterého balíček vznikl:
     - Např. balíček `iPhone + kryt na displej + pouzdro + nabíječka` by měl být ve vlastní kategorii a ne v kategorii `telefony - Apple`.
-  - Na konkrétních kategoriích pro balíčky se dohodněte s našimi [obchodními zástupci](https://rentalitpro.cz/#kontakt).
+  - Na konkrétních kategoriích pro balíčky se dohodněte s našimi [obchodními zástupci](../kontakt).
 
 :::tip Unikátní kódy produktů
 Pokud nejsou vaše kódy produktů unikátní, možná pro vás máme řešení v [implementačním návodu](../tutorial-implementace/popis-feedu#co-dělat-když-produktové-kódy-nejsou-unikátní).

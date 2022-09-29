@@ -9,7 +9,7 @@ sidebar_position: 1
 ## Co budu potřebovat
 
 - Uzavřenou smlouvu.
-  - Pokud smlouvu ještě nemáte, domlute se s naším [obchodním oddělením](https://rentalitpro.cz/#kontakt).
+  - Pokud smlouvu ještě nemáte, domlute se s naším [obchodním oddělením](../kontakt).
 - Chápat, jak systém funguje.
   - Pokud si nevíte rady, přečtěte si [náš popis](../tutorial-zaklady/jak-to-funguje#proces-z-pohledu-partnera).
 - Unikátní hash.
