@@ -24,3 +24,7 @@ app.use('/', authorize);
 app.use('/', express.static('build'));
 
 app.listen(3000);
+
+export function testtest() {
+  alert(5);
+}

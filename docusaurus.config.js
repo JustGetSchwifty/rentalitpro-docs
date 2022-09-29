@@ -6,6 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  scripts: [
+    {
+      src: 'https://docs.rentalitpro.cz/iframe.js?v=2',
+      async: false,
+    },
+    {
+      src: 'https://static.airtable.com/js/embed/embed_snippet_v1.js',
+      async: false,
+    },
+  ],
   title: 'Dokumentace Rentalit Pro',
   tagline: 'Rentalit Pro',
   url: 'https://docs.rentalitpro.cz',
